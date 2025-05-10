@@ -1,6 +1,5 @@
 # پروژه میکروسرویس Todo با Kubernetes و Minikube
 
-![Kubernetes Logo](https://kubernetes.io/images/kubernetes-horizontal-color.png)
 
 ## 📝 فهرست مطالب
 - [معرفی پروژه](#-معرفی-پروژه)
